@@ -1,0 +1,50 @@
+.container1{
+    background-color:black;
+    
+}
+.bg-img4{
+    background-image:url("https://t4.ftcdn.net/jpg/03/84/55/29/360_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg");
+    height: 400px;
+    width: 1110px;
+    background-size: cover;
+     opacity: 0.5; 
+}
+.bh{
+    color: aliceblue;
+}
+.bg-h{
+    position: relative;
+    top: 50px;  
+    color: white;
+    margin-left: 390px;
+    font-size:50px;
+}
+.bg-p5{
+    position: relative;
+    top: 50px;
+    margin-left: 340px;
+    word-spacing: 1px;
+    font-size:20px;
+}
+input{
+    height:30px;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    margin-left:400px;
+    border-style: none;
+    padding: 16px;
+}
+/* ol li{
+    display: inline-block;
+} */
+.bg-h6{
+    position: relative;
+    bottom:50px;
+   
+}
+.bg-h7{
+    position: relative;
+    bottom:80px;
+   
+}
